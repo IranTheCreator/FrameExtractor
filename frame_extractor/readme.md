@@ -50,5 +50,5 @@ Check the provided example in the Usage section for a quick guide on how to use 
 ## Contributing
 If you have suggestions, improvements, or issues, feel free to open an issue or submit a pull request.
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
